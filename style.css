@@ -1,0 +1,12 @@
+div {
+  width: 300x;
+  height: 100px;
+}
+
+.original {
+  border: 2px solid green;
+}
+
+.shuffled {
+  border: 2px solid blue;
+}
